@@ -1,0 +1,22 @@
+.headerMain{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 15px;
+}
+.logo{
+    h1{
+        font-size: 29px;
+        color: white;
+        font-weight: 500;
+    }
+}
+.navBar{
+    a{
+        color:white;
+        font-size: 20px;
+        margin: auto 5px;
+    }
+}
