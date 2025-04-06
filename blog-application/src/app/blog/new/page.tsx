@@ -32,7 +32,7 @@ export default function AddBlog (){
                     <textarea name='body' className='' id='code'/>
                 </div>
 
-                <button type='submit' className='' >Create</button>
+                <button type='submit' className={styles.button} >Create</button>
             </div>
         </form>
     )
